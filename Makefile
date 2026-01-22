@@ -45,5 +45,5 @@ only-combine:
 
 
 tips-next-step:
-	@echo '[Next Step]: cd ~/work/ubuntu-iso-builder-remix-xfce/iso-profile'
+	@echo '[Next Step]: cd ~/work/ubuntu-iso-builder-next-remix-xfce/iso-profile'
 .PHONY: tips-next-step
