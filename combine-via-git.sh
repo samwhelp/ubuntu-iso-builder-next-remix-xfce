@@ -22,16 +22,16 @@ REF_CMD_FILE_NAME="$(basename "$0")"
 ## ## Path / ISO Profile
 ##
 
-REF_ISO_PROFILE_REPO_GIT_URL="https://github.com/samwhelp/ubuntu-iso-builder-template.git"
+REF_ISO_PROFILE_REPO_GIT_URL="https://github.com/samwhelp/ubuntu-iso-builder-next-template.git"
 
 REF_ISO_PROFILE_REPO_BRANCH_NAME="main"
 
-#REF_ISO_PROFILE_REPO_ARCHIVE_URL="https://github.com/samwhelp/ubuntu-iso-builder-template/archive/refs/heads/${REF_ISO_PROFILE_REPO_BRANCH_NAME}.zip"
-REF_ISO_PROFILE_REPO_ARCHIVE_URL="https://github.com/samwhelp/ubuntu-iso-builder-template/archive/refs/heads/${REF_ISO_PROFILE_REPO_BRANCH_NAME}.tar.gz"
+#REF_ISO_PROFILE_REPO_ARCHIVE_URL="https://github.com/samwhelp/ubuntu-iso-builder-next-template/archive/refs/heads/${REF_ISO_PROFILE_REPO_BRANCH_NAME}.zip"
+REF_ISO_PROFILE_REPO_ARCHIVE_URL="https://github.com/samwhelp/ubuntu-iso-builder-next-template/archive/refs/heads/${REF_ISO_PROFILE_REPO_BRANCH_NAME}.tar.gz"
 
 
 REF_ISO_PROFILE_REPO_ARCHIVE_FILE_NAME="${REF_ISO_PROFILE_REPO_BRANCH_NAME}.tar.gz"
-REF_ISO_PROFILE_REPO_ARCHIVE_EXTRACT_DIR_NAME="ubuntu-iso-builder-template-${REF_ISO_PROFILE_REPO_BRANCH_NAME}"
+REF_ISO_PROFILE_REPO_ARCHIVE_EXTRACT_DIR_NAME="ubuntu-iso-builder-next-template-${REF_ISO_PROFILE_REPO_BRANCH_NAME}"
 
 
 
